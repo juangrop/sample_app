@@ -1,4 +1,5 @@
 # Ruby on Rails Tutorial sample application
+# Example to keep working on Sr. Design
 
 This is the sample application for
 [*Ruby on Rails Tutorial:
